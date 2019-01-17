@@ -1,9 +1,9 @@
 //******************************************************************************
-// Project Name: GestureSlider
-// File Name: main.cpp
-// Author: Shili_Xu
-// E-Mail: shili_xu@qq.com
-// Created Time: Sat 08 Dec 2018 05:28:37 PM CST
+// Copyright (c) 2018 Shili Xu
+// File: main.cpp
+// Author: Shili_Xu <shili_xu@qq.com>
+// GitHub: https://github.com/ShiliXu1997
+// License: GPLv3
 //******************************************************************************
 
 #include "mainwindow.h"

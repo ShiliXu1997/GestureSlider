@@ -1,3 +1,11 @@
+//******************************************************************************
+// Copyright (c) 2018 Shili Xu
+// File: coresolve.cpp
+// Author: Shili_Xu <shili_xu@qq.com>
+// GitHub: https://github.com/ShiliXu1997
+// License: GPLv3
+//******************************************************************************
+
 #include "coresolve.h"
 using namespace std;
 using namespace cv;

@@ -1,3 +1,11 @@
+//******************************************************************************
+// Copyright (c) 2018 Shili Xu
+// File: coresolve.h
+// Author: Shili_Xu <shili_xu@qq.com>
+// GitHub: https://github.com/ShiliXu1997
+// License: GPLv3
+//******************************************************************************
+
 #ifndef CORESOLVE_H
 #define CORESOLVE_H
 

@@ -1,3 +1,11 @@
+//******************************************************************************
+// Copyright (c) 2018 Shili Xu
+// File: mainwindow.cpp
+// Author: Shili_Xu <shili_xu@qq.com>
+// GitHub: https://github.com/ShiliXu1997
+// License: GPLv3
+//******************************************************************************
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 

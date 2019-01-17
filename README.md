@@ -8,3 +8,6 @@
 给手指带上特定颜色（绿色）的指套两个，在打开的摄像镜头前运动，即可根据指套的距离控制滑动条；若想迅速归零，只展示一个指套即可。
 
 ![ring](images/ring.png)
+![gesture1](images/gesture1.png)
+![gesture2](images/gesture2.png)
+![gesture3](images/gesture3.png)
